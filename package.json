@@ -13,9 +13,11 @@
     "@develoka/angka-terbilang-js": "^1.4.2",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
+    "axios": "^1.2.1",
     "framer-motion": "^7.6.19",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-hook-form": "^7.40.0",
     "wnumb": "^1.2.0"
   },
   "devDependencies": {
